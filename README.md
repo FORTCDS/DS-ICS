@@ -1,4 +1,4 @@
-![Image](https://github.com/FORTCDS/DS-ICS2/blob/master/DS_ICS.png)
+![Image](https://github.com/FORTCDS/DS-ICS/blob/master/DS_ICS.png)
 # DS-ICS
 DS-ICS is a multimedia project software system synthesis suite that contains four main modules.
 DS-ICS implements the latest object detection algorithm, which is written in java.
