@@ -61,7 +61,7 @@ region / country / name / uid
 
 * Taiwan, China / Tonydia / DS899
 * New York, USA / John Wilson / DS192
-* Dalian, China / Dalian SKYO Technology Co., Lit / DS719
+* Dalian, China / Dalian SKYO Technology Co., Lit / DS719（大连天奥科技有限公司）
 * Dalian, China / Henggu Technology Co., Lit / DS763
 
 # Contact DS-ICS
